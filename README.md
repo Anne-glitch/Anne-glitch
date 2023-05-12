@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Anne-glitch
-- 👀 I’m interested in exploring the world of coding
+- 👀 I love coding and specialize in C, Java and python.
+- I also enjoy building webpages and websites using HTML, CSS, JS & REACT.
 - 📫 How to reach me- aniishu20012@gmail.com
 
 
